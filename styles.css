@@ -1,0 +1,12 @@
+th {
+  border-bottum: 1px solid gray;
+  font-weight : bold;
+  font-size : 1-em;
+}
+
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration:underline:
+}
